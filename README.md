@@ -15,11 +15,11 @@ This project uses React framework, Webpack for build tools and use Zeit for host
 
 ## Demo 
 
-![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage1.png)
-![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage2.png)
-![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage3.png)
-![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage4.png)
-![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage5.png)
+![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage1.png | width=60)
+![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage2.png | width=60)
+![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage3.png | width=60)
+![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage4.png | width=60)
+![alt text](https://tokped-build-files-git-master.baywij.now.sh/ss-tokped/Homepage5.png | width=60)
 
 demo link : https://tokped-build-files-git-master.baywij.now.sh/
 
